@@ -76,7 +76,7 @@
   --user-modal-grayscale: var(--background-grayscale);
   --user-modal-sepia: var(--background-sepia);
   --user-modal-blur: calc(var(--background-blur) + 3px);
-  --home-icon: url(https://clearvision.gitlab.io/icons/discord.svg);
+  --home-icon: url(https://.gitlab.io/icons/discord.svg);
   --home-position: center;
   --home-size: 40px;
 }
@@ -268,7 +268,7 @@ textarea,
   order: 1;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:before {
-  content: "ClearVision";
+  content: "WeedVision";
   color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   text-shadow: 0 0 3px #000;
